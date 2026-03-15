@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-Minimal FOA ingestion + rule-based semantic tagging pipeline.
-
-Usage:
-    python main.py --url "<FOA_URL>" --out_dir ./out
-"""
-
 from __future__ import annotations
 
 import argparse
